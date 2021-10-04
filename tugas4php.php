@@ -1,0 +1,9 @@
+<?php $x = 80000;
+$y = 50000;
+$z = 100;
+$a = $x - $y;
+$b = $a / $y * $z;
+echo "Jual = $x  <br> ";
+echo "Beli = $y <br>";
+echo "Keuntungan = ? <br>";
+echo "Jawaban = $b %";
